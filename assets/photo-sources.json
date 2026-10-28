@@ -1,0 +1,80 @@
+{
+  "license": "Pexels license unless otherwise noted",
+  "license_url": "https://www.pexels.com/license/",
+  "assets": [
+    {
+      "file": "pre-slab.webp",
+      "source": "https://www.pexels.com/photo/29257600/",
+      "image": "https://images.pexels.com/photos/29257600/pexels-photo-29257600.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "pre-drywall.webp",
+      "source": "https://www.pexels.com/photo/8817834/",
+      "image": "https://images.pexels.com/photos/8817834/pexels-photo-8817834.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "final-home.webp",
+      "source": "https://www.pexels.com/photo/7578862/",
+      "image": "https://images.pexels.com/photos/7578862/pexels-photo-7578862.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "warranty-home.webp",
+      "source": "https://www.pexels.com/photo/5071174/",
+      "image": "https://images.pexels.com/photos/5071174/pexels-photo-5071174.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "water-sampling.webp",
+      "source": "https://www.pexels.com/photo/36692069/",
+      "image": "https://images.pexels.com/photos/36692069/pexels-photo-36692069.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "pool.webp",
+      "source": "https://www.pexels.com/photo/13731277/",
+      "image": "https://images.pexels.com/photos/13731277/pexels-photo-13731277.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "irrigation.webp",
+      "source": "https://www.pexels.com/photo/8791457/",
+      "image": "https://images.pexels.com/photos/8791457/pexels-photo-8791457.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "lead-paint.webp",
+      "source": "https://www.pexels.com/photo/5641337/",
+      "image": "https://images.pexels.com/photos/5641337/pexels-photo-5641337.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "air-quality.webp",
+      "source": "https://www.pexels.com/photo/32079710/",
+      "image": "https://images.pexels.com/photos/32079710/pexels-photo-32079710.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "documentation.webp",
+      "source": "https://www.pexels.com/photo/544965/",
+      "image": "https://images.pexels.com/photos/544965/pexels-photo-544965.jpeg",
+      "use": "Illustrative stock photo"
+    },
+    {
+      "file": "sewer-camera.webp",
+      "source": "https://www.usgs.gov/media/images/sewer-camera-check-subsurface-drains",
+      "license": "Public Domain",
+      "credit": "USGS"
+    },
+    {
+      "file": "septic.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Septic_tank_Bolduc.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Nonztp",
+      "changes": "resized; WebP conversion"
+    }
+  ]
+}

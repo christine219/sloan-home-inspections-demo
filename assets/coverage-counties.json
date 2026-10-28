@@ -1,0 +1,24 @@
+{
+  "SC": {
+    "Horry": "https://www.horrycountysc.gov/",
+    "Georgetown": "https://gtcountysc.gov/",
+    "Florence": "https://www.florencecountysc.gov/",
+    "Marion": "https://www.marionsc.org/",
+    "Dillon": "https://www.dilloncountysc.org/",
+    "Darlington": "https://www.darcosc.com/",
+    "Chesterfield": "https://www.chesterfieldcountysc.com/",
+    "Marlboro": "https://marlborocounty.sc.gov/",
+    "Kershaw": "https://www.kershaw.sc.gov/",
+    "Lee": "https://www.leecountysc.org/",
+    "Sumter": "http://www.sumtercountysc.gov",
+    "Clarendon": "https://www.clarendoncountysc.gov/",
+    "Williamsburg": "https://www.williamsburgcounty.sc.gov/"
+  },
+  "NC": {
+    "Brunswick": "https://www.brunswickcountync.gov/",
+    "New Hanover": "https://www.nhcgov.com/",
+    "Columbus": "https://www.columbusco.org/",
+    "Bladen": "https://bladennc.govoffice3.com/",
+    "Robeson": "https://www.robesoncountync.gov/"
+  }
+}
