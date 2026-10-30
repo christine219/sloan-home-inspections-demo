@@ -26,3 +26,5 @@
 
 /* Requested demo refinements */
 #construction .stage .construction-warranty-detail{margin:18px 0 0;padding:16px 14px;border-top:0}#construction .stage .construction-warranty-detail h3{font-size:20px;line-height:1.2}#construction .stage .construction-warranty-detail .stage-benefits{display:block;columns:1;font-size:14px;line-height:1.45;padding-left:18px}#construction .stage .construction-warranty-detail .stage-benefits li{margin:0 0 9px}#construction .stage .construction-warranty-detail p{font-size:14px;line-height:1.45}.loan-table-heading{margin-top:36px}.loan-questions details{margin-bottom:32px;padding:20px 24px;background:#e8eef7;border-left:5px solid #f5cc43}.loan-questions summary{font-weight:700;cursor:pointer}.loan-questions .detail-list{margin-bottom:0}
+
+#construction .stage .construction-warranty-detail h3 + p{margin:0 0 12px}
